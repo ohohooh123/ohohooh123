@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 <br/><br/><br/>
 ## :pushpin: 1차 프로젝트
-HTML, CSS, Java Script로 웹페이지 제작
+HTML, CSS, Java Script로 회사 웹페이지 제작
+
 ## :pushpin: 2차 프로젝트
 공공 API를 사용해 부산시 관광 홈페이지 제작
 ## :pushpin: 3차 프로젝트
