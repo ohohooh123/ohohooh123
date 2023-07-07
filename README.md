@@ -1,10 +1,10 @@
-### Hi there 👋
+
 
 <!--
 **ohohooh123/ohohooh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Yeonseo's&nbsp;git%20&height=300&fontSize=100&textBg=true)
