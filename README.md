@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 ## :hammer: Tool<br/>
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black"> <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=JavaScript&logoColor=white">
 
+<br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohohooh123&layout=compact)](https://github.com/ohohooh123/github-readme-stats)
+
 <br/><br/><br/>
 ## :pushpin: 1차 프로젝트
 HTML, CSS, Java Script로 회사 웹페이지 제작
