@@ -40,7 +40,7 @@ HTML, CSS, Java Script로 회사 웹페이지 제작
 (https://github.com/ohohooh123/JKC-Project.git)
 ## :pushpin: 3차 프로젝트
 공공 API를 사용해 부산시 관광 홈페이지 제작
-()
+(https://github.com/ohohooh123/Coffee.git)
 ## :pushpin: 4차 프로젝트
 JAVA 슈팅 게임 제작
 (https://github.com/ohohooh123/GG_project.git)
