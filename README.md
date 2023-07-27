@@ -46,5 +46,5 @@ JAVA 슈팅 게임 제작
 (https://github.com/ohohooh123/GG_project.git)
 ## :pushpin: 5차 프로젝트 (진행중)
 코틀린 기반의 걷기 측정 모바일 앱 제작중
-()
+(https://github.com/ohohooh123/KotlinProject.git)
 
