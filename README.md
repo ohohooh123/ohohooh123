@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 <br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohohooh123&layout=compact)](https://github.com/ohohooh123/github-readme-stats)
-
+<br><br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohohooh123&show_icons=true&theme=radical)
 <br/><br/><br/>
 ## :pushpin: 1차 프로젝트
 HTML, CSS, Java Script로 회사 웹페이지 제작
